@@ -1,2 +1,4 @@
 merged modified edit
 remote modified
+local modified
+
